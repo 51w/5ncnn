@@ -1,0 +1,1 @@
+g++ faceboxs.cpp -I../install/include -L../install/lib -lncnn -lopencv_core -lopencv_highgui -fopenmp -o faceboxs
